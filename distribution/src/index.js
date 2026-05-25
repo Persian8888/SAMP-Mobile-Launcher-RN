@@ -15,7 +15,7 @@ const dirLauncher = './../../distributions/launcher';
 const projectName = 'Touch Mobile';
 const packageName = 'com.touch.mobile.dark';
 
-const cdnCache = 'https://game.touch-rp.com/mobile/cache';
+const cdnCache = 'http://194.60.230.114/cache';
 const cdnLauncher = 'https://game.touch-rp.com/mobile/launcher';
 
 const appVersion = '0.0.39';
